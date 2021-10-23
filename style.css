@@ -22,7 +22,7 @@ body {
 }
 
 main {
-    background: url(img/Background.png) no-repeat center/cover;
+    background: url(img/Mobile.png) no-repeat center/cover;
     width: 100vw;
     min-height: 812px;
     height: 100vh;
